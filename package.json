@@ -1,0 +1,20 @@
+{
+  "name": "scanning.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:scanning/scanning.github.io.git",
+  "author": "Simon Canning <simoncanning@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gatsby": "^2.21.21",
+    "gatsby-cli": "^2.12.15",
+    "gh-pages": "^2.2.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "build": "yarn gatsby build",
+    "develop": "yarn gatsby develop",
+    "deploy": "yarn build && yarn gh-pages -d public"
+  }
+}
