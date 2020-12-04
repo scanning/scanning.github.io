@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/scanning
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://s.cann.i.ng
+  * I am scanning (https://keybase.io/scanning) on keybase.
+  * I have a public key with fingerprint 7516 0D7B 5E2E ED73 ACCB  57DB 3EF0 6FF4 594D 4D09
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019fcd23f8d2e7b2ffea30262324622258a98c063742bbd5b478e3f3c65973bc5c0a",
+      "fingerprint": "75160d7b5e2eed73accb57db3ef06ff4594d4d09",
+      "host": "keybase.io",
+      "key_id": "3ef06ff4594d4d09",
+      "kid": "01019fcd23f8d2e7b2ffea30262324622258a98c063742bbd5b478e3f3c65973bc5c0a",
+      "uid": "e6d6a7299f3ec4ddec9bddea0dae0119",
+      "username": "scanning"
+    },
+    "service": {
+      "hostname": "s.cann.i.ng",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1589247948,
+  "expire_in": 157680000,
+  "prev": "0eb153f7bc460396fa950fa8258753473e86860a66e63e620fcd332d04930ad3",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD6mJh4S7GIvFdFkGWTHOTO7s7snScrAJBRSqgel0+zOrC7a
+7mnPetciLYostDAqH9KEhIJuBJXd1TC6SDfSQigIjMiCqIcsJNuVfOuxeZhh/vm+
+7/+/j7mfFOvzxzzaq86tHpmciHnce7zCt61n8kkdUC1WA0J1oIxPHbyc8agTLjMY
+CAEYhEFF1xjCuswQl1Sk65xiiAjCSCAIIVGmiqxBgiUBqSoTVUGSOdaxRkRFwqom
+apCCdKAbZgm3I7ZhOq6sJAYJZJIqcsQ5kzDVNFWUmIq5DomuC6IiMIFBxSWWWlGP
+4Q6n0igPGJZbcy/hqfH+gf/Pc1dMyXHCCJWQouiYawJjXFNUd6eQUQ6DQa9vRZTb
+Jt3BXXRUo6bp+gUN6cCtVhoa94L1nEwjAh4kYARcUDqI2JZjaVa5+1DqOJFoyCM6
+NREPWcXV8F+NsGqYzJhiVHI7algmCAVdpOYYnmhQlBUkSIogpwNeHTFsHjY8hCgR
+GbrL68MrvWy4GhSxLqmaQCBWiE4VEepUdiORRCxImMtEJpASwgnmBEE3R4wRg4KC
+IWUYeK52mhYIIVfUoSWeIaPEpE6FzUFD373iOF+M3zczfob3v3z+xOTpX9e9PeF3
+IDXbydn2SyneOpbVviyyqnBd2ZazuzY+zfVf6/i2eWXh6dc/benH7DkZd5YXfLpw
+6T37WuPvHluFQOCI1Zyf+TUwOQpyLqacf9oUPtYYya6NXOgRC8da395uPVSwO+Xs
+qfjRzpG8zPVXi5qeleSm1TV+fLG/3nx45XDbrGjLmxX1N94V7Ynraay61bWpKTkw
+oyv7ZP/R56ub9rX3T7Tsrc0YotyX8HL4QMvdRfRj8WByUWlcYnUXGD54Oa2hZtDv
+H8tb+qBjibByMCE1ZnyoEs9LsZo/PFsQJ/26vljMn7Syuq7aA+PJZzb0lbfEglc3
+Tyjn1szv7P2S1PG57Xto7cDCvj9wnEE+
+=Ck1k
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scanning
+
+==================================================================
+
