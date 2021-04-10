@@ -27,5 +27,13 @@ module.exports = {
         icon: `src/images/scanning.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `gatsby-plugin-splitbee`,
+      options: {
+        includeInDevelopment: false,
+        delayTimeout: 0,
+        disableCookie: true 
+      },
+    },
   ],
 }
