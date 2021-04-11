@@ -4,6 +4,14 @@ module.exports = {
     author: `@scanning`,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-splitbee`,
+      options: {
+        includeInDevelopment: false,
+        delayTimeout: 0,
+        disableCookie: false,
+      },
+    },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-transition-link`,
     {
@@ -25,14 +33,6 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/scanning.png`, // This path is relative to the root of the site.
-      },
-    },
-    {
-      resolve: `gatsby-plugin-splitbee`,
-      options: {
-        includeInDevelopment: false,
-        delayTimeout: 0,
-        disableCookie: true 
       },
     },
   ],
